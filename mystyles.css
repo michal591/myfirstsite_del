@@ -1,0 +1,49 @@
+div {
+    padding-left: 100;
+    padding-right: 100;
+}
+
+.redBold{
+    color: red;
+    font-weight: bold;
+}
+
+.blueSmall{
+    color: blue;
+    font-size: smaller;
+}
+
+.blackFont {
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.element {
+    margin: 10px 20px 30px 40px; /* top: 10px, right: 20px, bottom: 30px, left: 40px */
+  }
+
+.padding {
+    padding-left: 50%;
+    padding-right: 50%;
+}
+
+.single-line {
+    white-space: nowrap;
+}
+
+.button{
+        background-color: greenyellow;
+        /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+        }
